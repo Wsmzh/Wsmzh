@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wsmzh
 - 👀 I’m interested in life
-- 🌱 I’m currently learning Rust, Java, and eBPF
+- 🌱 I’m currently finding Job
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ? Click -> https://wsmzh.github.io/
 
